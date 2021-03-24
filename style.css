@@ -1,0 +1,123 @@
+body {
+    background: linear-gradient(DarkKhaki 0%, LightSkyBlue 50%, coral 100%);
+
+}
+
+.heading 
+{
+    font-family: 'Ranchers', cursive;
+    font-size: 50px;
+    text-align: center;
+    color: antiquewhite;
+}
+
+p {
+    color: antiquewhite;
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+}
+
+a {
+    text-shadow: 1px 1px gainsboro;
+}
+#homepage h1{
+    margin-top: 50px;
+    
+}
+img {
+    width: 350px;
+    border-radius: 170px;
+    height: 350px;
+
+    border-top-color: darkred;
+}
+
+#homepage {
+
+    font-family: 'Syne Mono', monospace;
+    font-size: 20px;
+    text-align: center;
+    width: 95%;
+    height: 80%;
+    background: inherit;
+
+}
+
+#homepage h1 {
+    font-family: 'Chango', cursive;
+}
+
+
+#contact {
+
+    color: aliceblue;
+    text-align: center;
+
+
+}
+
+iframe {
+    width: 90%;
+}
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+
+
+#mycarousel {
+    background: linear-gradient(DarkGray 0%, DarkKhaki 100%);
+    width: 70%;
+    margin-left: 180px;
+
+}
+
+.carousel-inner p {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: white;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+#mycarousel img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 70%;
+    height: 400;
+}
+
+.links:hover {
+    font-size: 20px;
+    text-decoration-style: wavy;
+
+}
+
+.links {
+
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    color: cadetblue;
+    font-size: 30px;
+    font-family: 'Redressed', cursive;
+}
+
+    
+    
+
+
+#leftArrow{
+    margin-top: 180px;
+    font-size: 50px;
+    color: cadetblue;
+    
+}
+
+#rightArrow{
+    margin-top: 180px;
+   font-size: 50px;
+    color: cadetblue;
+}
